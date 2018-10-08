@@ -1,0 +1,36 @@
+* {
+    margin: 0 auto;
+    text-align: center
+}
+
+.add-art {
+    display: flex;
+    flex-direction: column;
+    border: solid black 10px;
+    border-top: none;
+    width: 30%;
+    background: white;
+    /* background-image: url('https://images.template.net/wp-content/uploads/2014/12/Marble-Texture-4.jpg') */
+}
+
+.lolidk {
+    height:100vh;
+    background-image: url('../img//backk.jpg');
+}
+
+.add-da-art h1 {
+    width: 30%;
+    background: white;
+    border: solid black 10px;
+    border-bottom: none;
+    /* margin-top: 3%; */
+    font-size: 40px;
+}
+
+.add-art input {
+    margin-top: 40px;
+    height: 50px;
+    width: 90%;
+    font-size: 25px;
+    background: white;
+}

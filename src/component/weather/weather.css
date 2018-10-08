@@ -1,0 +1,18 @@
+.weathh {
+    margin-top: 3%;
+}
+
+.weathh h1 {
+    font-size: 50px;
+}
+
+.weath-back {
+    height: 100vh;
+    background-image: url('../img/backk.jpg')
+}
+
+.border {
+    background: white;
+    border: solid black 10px;
+    width: 30%;
+}

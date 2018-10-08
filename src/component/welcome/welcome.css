@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Srisakdi');
+@import url('https://fonts.googleapis.com/css?family=Courgette');
+@import url('https://fonts.googleapis.com/css?family=Courgette|Monoton');
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light+Two');
+
+* {
+  /* font-family: 'Srisakdi', cursive; */
+    /* font-family: 'Courgette', cursive; */
+    /* font-family: 'Monoton', cursive; */
+    font-family: 'Shadows Into Light Two', cursive;
+} 
+
+.welcome {
+    background-image: url('http://wallpoper.com/images/00/44/64/29/pyramids-abstract-art_00446429.jpg');
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1 {
+    font-size: 100px;
+}

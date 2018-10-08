@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Srisakdi');
+@import url('https://fonts.googleapis.com/css?family=Courgette');
+@import url('https://fonts.googleapis.com/css?family=Courgette|Monoton');
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light+Two');
+
+header {
+    /* font-family: 'Srisakdi', cursive; */
+    /* font-family: 'Courgette', cursive; */
+    /* font-family: 'Monoton', cursive; */
+    font-family: 'Shadows Into Light Two', cursive;
+    
+}
+
+h1 {
+    font-size: 50px;
+    padding-top: none;
+    padding-bottom:none;
+}
+
+.headhead {
+    border: solid black 5px;
+}
+
+
+/* img {
+    width: 100px;
+    height: 100px;
+    border: none;
+    padding: none;
+    margin: none
+} */
+
+/* .childchild {
+    display: flex
+} */
